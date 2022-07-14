@@ -1,7 +1,9 @@
 - 👋 Hi, I’m Serhat Agit Satıcı.
-- 👀  I graduated from Kocaeli University Computer Engineering. I’m interested in Machine Learning
+- 👀  I graduated from Kocaeli University Computer Engineering.
+I am currently doing my master's degree in Computer Engineering at Gebze Technical University. 
+I’m interested in Machine Learning
 - 📫 You can reach me Linkedn 
-https://www.linkedin.com/in/serhat-satıcı-5a6856127
+https://www.linkedin.com/in/serhatagitsatici/
 
 
 <!---
